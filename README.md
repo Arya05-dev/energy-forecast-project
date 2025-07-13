@@ -19,8 +19,7 @@ This project uses Python and machine learning to forecast energy usage based on 
 - Run all cells and check the forecast plot
 ## 📊 Sample Output
 
-![Forecast Graph](<img width="757" height="570" alt="forecast-graph" src="https://github.com/user-attachments/assets/31b0e756-275e-4670-90c8-8962ac393cd0" />
-)
+![Forecast Graph](https://raw.githubusercontent.com/Arya05-dev/energy-forecast-project/main/forecast-graph.png)
 Added screenshot in README
 > Built by Arya Mishra 💻⚡
 Updated existing README with full project details
